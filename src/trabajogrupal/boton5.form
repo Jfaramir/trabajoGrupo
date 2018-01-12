@@ -60,7 +60,7 @@
     <Component class="javax.swing.JLabel" name="jLabel2">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="1" name="https://www.google.es/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjckP7w_tLYAhUEchQKHVYkCbsQjRwIBw&amp;url=http%3A%2F%2Fwww.mediavida.com%2Fforo%2Ffeda%2Fel-hilo-de-las-fotos-random-568634&amp;psig=AOvVaw0_KwldiCHqjfgV3j10afCa&amp;ust=1515865957516690"/>
+          <Image iconType="3" name="/fotos/random239.jpg"/>
         </Property>
       </Properties>
     </Component>

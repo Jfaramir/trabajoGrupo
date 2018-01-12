@@ -36,17 +36,7 @@ public class boton5 extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Juan Pablo Carpio");
 
-        jLabel2.setIcon(new javax.swing.JLabel() {
-            public javax.swing.Icon getIcon() {
-                try {
-                    return new javax.swing.ImageIcon(
-                        new java.net.URL("https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjckP7w_tLYAhUEchQKHVYkCbsQjRwIBw&url=http%3A%2F%2Fwww.mediavida.com%2Fforo%2Ffeda%2Fel-hilo-de-las-fotos-random-568634&psig=AOvVaw0_KwldiCHqjfgV3j10afCa&ust=1515865957516690")
-                    );
-                } catch (java.net.MalformedURLException e) {
-                }
-                return null;
-            }
-        }.getIcon());
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/fotos/random239.jpg"))); // NOI18N
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
